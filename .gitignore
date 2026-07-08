@@ -146,6 +146,19 @@ data/cifar-*
 logs/
 runs/
 extras/cifar-10*
+tutorial/data/10_whole_foods*
+tutorial/data/FashionMNIST
+tutorial/data/MNIST
+tutorial/data/10_whole_foods*
+tutorial/data/food*
+tutorial/data/pizza_steak_sushi/*
+tutorial/data/pizza_steak_sushi_20_percent/
+tutorial/10_whole_foods.zip
+tutorial/going_modular/data/
+tutorial/data/cifar-*
+tutorial/logs/
+tutorial/runs/
+tutorial/extras/cifar-10*
 
 # Notebooks
 09_pytorch_model_deployment-*
