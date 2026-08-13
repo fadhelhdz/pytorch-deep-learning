@@ -160,6 +160,7 @@ tutorial/data/cifar-*
 tutorial/logs/
 tutorial/runs/
 tutorial/extras/cifar-10*
+tutorial/05_going_modular/data
 
 # Notebooks
 09_pytorch_model_deployment-*
